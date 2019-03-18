@@ -33,7 +33,8 @@ new Vue({
 			'David Williams',
 			'Patrick Hayes',
 			'Justin Kevalaitis',
-			'Anna Fleming'
+			'Anna Fleming',
+			'Lindsey Frank'
 		],
 		personOne: '',
 		personTwo: '',
